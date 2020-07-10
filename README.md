@@ -1,4 +1,12 @@
 ### Hi there 👋
+---------------
+Welcome, I am a French developer in web specialization. My name is Augustin Legrand and I am 21 years old. I obtained a level 3 professional title in web development.
+
+### What I use ?
+----------------
+
+1. HTML, CSS, SASS, JS
+2. Symfony
 
 <!--
 **AugustinLegrand/AugustinLegrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
